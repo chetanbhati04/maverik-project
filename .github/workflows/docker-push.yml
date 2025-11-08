@@ -23,6 +23,6 @@ jobs:
       with:
         context: .
         push: true
-        tags: chetanbhati04/app:latest
+        tags: chetanbhati/app:latest
 
 
